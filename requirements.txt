@@ -1,0 +1,6 @@
+aio-pika==6.8.0
+fastapi==0.65.2
+python-dotenv==0.17.1
+redis==3.5.3
+sse-starlette==0.7.2
+uvicorn==0.14.0
