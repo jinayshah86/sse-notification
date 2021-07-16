@@ -1,6 +1,6 @@
 This repository is a POC on how to send notification using Server Sent Events and Pub/Sub.
 
-[Documentation](https://www.notion.so/jinayshah86/Notification-services-06d24c1d339e4fb09103250f56f6bb66)
+[Documentation](https://jinayshah86.notion.site/Notification-services-06d24c1d339e4fb09103250f56f6bb66)
 
 ## Local setup
 1. Create a virtual environment
